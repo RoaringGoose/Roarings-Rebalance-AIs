@@ -11,8 +11,8 @@ Special thanks goes to:
 
 Currently, the following AIs are included:
 
-- EarlyMed, a European Count of the early medieval era. Commanding only a small number of knights and professional soldiers, he relies on Levies to form the bulk of his army. Tier: 4, Tactic: Adaptive
+- EarlyMed, a European Count of the early medieval era. Commanding only a small number of knights and professional soldiers, he relies on Levies to form the bulk of his army. Tier: 4, Tactic: Balanced
 - Piglet, the Pig's child. A small, but very quick opponent. Tier: 1.5, Tactic: Rush
-- Ottoman, who represents the rise of the Ottoman Empire, including the takeover of Contantinople. Tier: 4, Tactic: Adaptive
+- Ottoman, who represents the rise of the Ottoman Empire, including the takeover of Contantinople. Tier: 4, Tactic: Balanced
 - Bauernrebell (meaning "peasant rebel"), who rises against his oppressive masters. Tier: 3, Tactic: Late Rush
-- MaxRush, an AI designed for the hardest possible Rush. It took inspiration from both Krari's Snake and Wurzelkapser's Negus. Tier: 2, Tactic: Rush
+- MaxRush, an AI designed for the hardest possible rush. Tier: 2, Tactic: Rush

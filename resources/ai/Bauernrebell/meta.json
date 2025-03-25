@@ -1,0 +1,18 @@
+{
+  "name": "Bauernrebell",
+  "description": "Tier 3 solid AI designed for the rebalance setting of the 2022 AI tournament. Inspired by Wurzelkasper's Negus.",
+  "author": "Roaring Goose",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

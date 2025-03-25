@@ -1,0 +1,8 @@
+name: Roarings-Rebalance-AIs
+display-name: "Roaring's Rebalance AIs"
+author: Roaring Goose
+version: 1.0.0
+dependencies: 
+  aiSwapper: ^1.0.0
+  framework: ^3.0.0
+  frontend: ^1.0.0

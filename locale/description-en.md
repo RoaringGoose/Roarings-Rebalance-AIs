@@ -1,0 +1,1 @@
+This package contains some custom AIs for the setting of the 2022 rebalance AI tournament.

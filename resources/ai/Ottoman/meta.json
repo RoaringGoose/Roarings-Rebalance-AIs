@@ -4,7 +4,7 @@
   "author": "Roaring Goose",
   "version": "1.0.0",
   "defaultLang": "de",
-  "supportedLang": ["de"],
+  "supportedLang": ["de", "en"],
   "switched": {
     "binks": false,
     "speech": false,
@@ -12,7 +12,7 @@
     "aiv": true,
     "lord": true,
     "startTroops": true,
-    "lines": false,
+    "lines": true,
     "portrait": false
   }
 }

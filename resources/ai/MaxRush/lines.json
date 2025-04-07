@@ -1,0 +1,14 @@
+{
+    "ai_name"      : "Rusher",
+  
+    "title_1"      : "\"Der Untergang\"",
+    "title_2"      : "\"here I come!\"",
+    "title_3"      : "\"Der Speerträger\"",
+    "title_4"      : "\"Der Assassine\"",
+    "title_5"      : "\"read faster\"",
+    "title_6"      : "\"Build fast\"",
+    "title_7"      : "\"or\"",
+    "title_8"      : "\"die fast\"",
+  
+    "description"  : "Eine KI, die auf den bestmöglichen Rush getrimmt ist. Stufe: 2 , Taktik: Rush."
+}

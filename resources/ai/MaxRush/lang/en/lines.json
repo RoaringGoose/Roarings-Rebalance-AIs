@@ -1,0 +1,14 @@
+{
+    "ai_name"      : "MaxRush",
+  
+    "title_1"      : "\"Armageddon\"",
+    "title_2"      : "\"here I come!\"",
+    "title_3"      : "\"the spearman\"",
+    "title_4"      : "\"the assassin\"",
+    "title_5"      : "\"read faster\"",
+    "title_6"      : "\"Build fast\"",
+    "title_7"      : "\"or\"",
+    "title_8"      : "\"die fast\"",
+  
+    "description"  : "An AI designed for the hardest rush possible. Tier: 2 , tactic: rush."
+}

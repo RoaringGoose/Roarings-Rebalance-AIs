@@ -7,16 +7,16 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "Spearman", "ArabArcher" ],
-      "Counts": [ 2, 3 ]
+      "Spearman": 2,
+	  "ArabArcher": 3
     },
     "crusader": {
-      "Units": [ "Spearman", "ArabArcher" ],
-      "Counts": [ 40, 40 ]
+      "Spearman": 40,
+	  "ArabArcher": 40
     },
     "deathmatch": {
-      "Units": [ "Spearman", "ArabArcher" ],
-      "Counts": [ 2, 3 ]
+      "Spearman": 2,
+	  "ArabArcher": 3
     }
   },
   "aic": {

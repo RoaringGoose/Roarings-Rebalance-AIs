@@ -1,5 +1,5 @@
 {
-    "ai_name"      : "Das Ferkel",
+    "ai_name"      : "Ferkel",
   
     "title_1"      : "Piggy",
     "title_2"      : "Schweinchen Dick",
@@ -10,5 +10,40 @@
     "title_7"      : "\"Der Junior-Räuber\"",
     "title_8"      : "\"Der Anti-Vegetarier\"",
   
-    "description"  : "Das Kind des Schweins. Kleiner, frecher und sehr viel schneller. Stufe: 1,5 , Taktik: Rush."
+    "description"  : "Das Kind des Schweins. Kleiner, frecher und sehr viel schneller. Stufe: 1,5 , Taktik: Rush.",
+
+    "unknown_1"    : "(Ferkel)",
+    "taunt_1"      : "Schlagt die Trommel, blast das Horn. Die Männer von meinem Papi sind im Anmarsch, direkt von vorn!",
+    "taunt_2"      : "Wollt ihr mit mir spielen? Ich komme euch gleich besuchen!",
+    "taunt_3"      : "Ich werde meinen Papi stolz machen, indem ich euch eins auf die Mütze gebe. Hah!",
+    "taunt_4"      : "Deine Schnürsenkel sind offen! Hehehe...",
+    "anger_1"      : "Aber Onkel De Puce hat gesagt, der Plan würde todsicher funktionieren! Wie kann das sein?",
+    "anger_2"      : "Ihr habt überlebt? Schade. Aber ich komme wieder, keine Sorge.",
+    "plead"        : "Ihr seid gemein. Das sage ich meinen Papi!",
+    "nervous_1"    : "Papa! Wir bekommen Besuch.",
+    "nervous_2"    : "Männer, zu mir! Hier sind ungebetene Gäste!",
+    "victory_1"    : "Gewonnen, gewonnen! Hihi!",
+    "victory_2"    : "Papas Männer sind die besten. Gegen die hattet ihr keine Chance.",
+    "victory_3"    : "Ein Kind hat euch besiegt, haha!",
+    "victory_4"    : "Onkel de Puce hatte recht. Sein Plan war genial!",
+    "request"      : "Ich brauche ein neues Spielzeug. Habt ihr etwas für mich?",
+    "thanks"       : "Danke! Ihr seid mein Lieblingsonkel - nach Onkel de Puce, natürlich.",
+    "ally_death"   : "Warum habt ihr mir nicht geholfen? Ihr seid gemein! Jetzt schaut, wie ihr ohne mich klar kommt.",
+    "congrats"     : "Super gemacht! Aber meine Truppen wären auch fast da gewesen, ihr wart nur ein bisschen schneller.",
+    "boast"        : "Ihr habt keine Chance gegen mich. Ich stamme vom größten Herzog aller Zeiten ab!",
+    "help"         : "Papa hat mir viel zu wenig Leute da gelassen, und jetzt stehen ganz viele Feinde vor meiner Burg. Bitte helft mir!",
+    "extra"        : "Also wenn ich so viel PC spielen würde wie Ihr, hätte ich Ärger mit meinem Papi.",
+    "kick_player"  : "unused",
+    "add_player"   : "unused",
+    "siege"        : "Meine Truppen sind bereit. Bald werden wir gewinnen!",
+    "no_attack_1"  : "Mein Papa sagt, ich bin noch zu klein, um Schlachten zu führen.",
+    "no_attack_2"  : "Nein. Ich greife erst an, wenn Papa mir Männer gibt.",
+    "no_help_1"    : "Tut mir leid, mein Papa hat mir zu wenig Leute dagelassen. Die brauche ich selbst.",
+    "no_help_2"    : "Euch Männer schicken? Aber ich habe selbst kaum welche!",
+    "no_sent"      : "Tut mir leid, dafür reicht mein Taschengeld nicht.",
+    "sent"         : "Aber klar. Und dafür schickt ihr mir auch, was ich brauche, ok?",
+    "team_winning" : "Onkel de Puce sagt, wir werden ganz bestimmt gewinnen!",
+    "team_losing"  : "Die anderen haben viel mehr Leute als wir. Und mehr Geld. Und größere Burgen. Tut endlich etwas, sonst muss ich abhauen!",
+    "help_sent"    : "Ich habe zwar selbst kaum Leute, aber weil ihr es seid schicke ich euch trotzdem ein paar vorbei.",
+    "will_attack"  : "Jaa! Zum Angriff!"
 }
